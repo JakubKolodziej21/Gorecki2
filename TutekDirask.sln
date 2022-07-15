@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutekDirask", "TutekDirask\TutekDirask.csproj", "{5172E2A2-5A46-4EC0-95CB-8D5E25B57F52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutekTests", "TutekTests\TutekTests.csproj", "{D23030A4-14FA-4745-B5C6-E98343C56291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5172E2A2-5A46-4EC0-95CB-8D5E25B57F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5172E2A2-5A46-4EC0-95CB-8D5E25B57F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5172E2A2-5A46-4EC0-95CB-8D5E25B57F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5172E2A2-5A46-4EC0-95CB-8D5E25B57F52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D23030A4-14FA-4745-B5C6-E98343C56291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23030A4-14FA-4745-B5C6-E98343C56291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23030A4-14FA-4745-B5C6-E98343C56291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23030A4-14FA-4745-B5C6-E98343C56291}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2BE191A-061F-4CF7-AEF6-CDFCF8F7F45F}
+	EndGlobalSection
+EndGlobal
